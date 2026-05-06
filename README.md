@@ -1,3 +1,25 @@
+# Hi there 👋 I'm Gaurav Rai
+
+🚀 Frontend-focused MERN Developer  
+💻 Passionate about building interactive and modern web apps  
+
+---
+
+## 👨‍💻 About Me
+- 🔥 Strong in React.js, JavaScript, HTML, CSS, Tailwind CSS  
+- 🧠 Exploring AI + Web Integration  
+- ⚡ Love creating smooth UI/UX experiences  
+- 🎯 Goal: Build impactful and scalable applications  
+
+---
+
+## 🛠️ Tech Stack
+- Frontend: React.js, JavaScript, HTML, CSS, Tailwind  
+- Backend: Node.js, Express.js  
+- Database: MongoDB  
+
+---
+## 🚀 Projects
 ## Hi there 👋
 
 <!--
